@@ -16,5 +16,5 @@ Eskişehir Osmangazi Üniversitesi 4.dönem projesidir. C# dili ve XML (Extensib
 > - Müşteri, kargo durumunu görebilir ve eski siparişleri görebilir.
 ### Uygulama Resimleri
 ![SignUp](https://user-images.githubusercontent.com/53264738/87994950-e3277180-caf6-11ea-8082-6ad192bccebf.png)
-
+Müşterinin kayıt olabileceği ekran
 ### Takım Üyeleri
