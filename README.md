@@ -31,13 +31,19 @@ Müşteri seçtiği ürünü ya da ürünleri bu sekmede detaylıca görebilir. 
 Müşteri ürün veya ürünleri satın almak için bu ekrana yönlendirilir. Teslimat adresini, ödeme türünü ve kargo tercihini seçebilir. Ürün ya da ürünlerin toplam fiyat özetini görebilir. Müşteri ***Place Order*** butonuna bastığı zaman e-mail adresine doğrulama kodu gönderilir.
 ![Verification Code](https://user-images.githubusercontent.com/53264738/87996819-00127380-cafc-11ea-94c6-7b66b88750b7.png)
 Müşteri doğrulama kodunu girdikten sonra faturalandırma işlemi sonlandırılır.
-![MailInvoice](https://user-images.githubusercontent.com/53264738/87997076-c2621a80-cafc-11ea-81dd-e4e34682b834.png)<br>
+![MailInvoice](https://user-images.githubusercontent.com/53264738/87997076-c2621a80-cafc-11ea-81dd-e4e34682b834.png)
+<br>
 Müşterinin e-mail adresine .pdf şeklinde fatura özeti gönderilir.
 ![image](https://user-images.githubusercontent.com/53264738/87996943-5ed7ed00-cafc-11ea-959a-193740a41034.png)<br>
 Mail adresine gelen faturanın resmidir.(Örnektir)
 ***
 ![MyOrders](https://user-images.githubusercontent.com/53264738/87997165-fc332100-cafc-11ea-89ed-9f9f8ade986b.png)
-Müşterinin geçmiş siparişlerinin özetini ve kargo durumunu içeren bilgilendirici ekrandır.
+Müşterinin geçmiş siparişlerinin özetini ve kargo durumunu içeren bilgilendirici ekrandır. (Örnektir)
 ***
 
 ### 3- Takım Üyeleri
+> - Gökhan Samet Albayrak
+> - [ismail Demircan](https://github.com/ismaildemircann)
+> - Sina Kuşoğlu
+> - Yasemin Gerboğa
+> - Elif Esra Eker
