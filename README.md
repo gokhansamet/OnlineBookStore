@@ -1,3 +1,3 @@
 # Online Book Store
-> Eskişehir Osmangazi Üniversitesi 4.dönem projesidir. 
+> Eskişehir Osmangazi Üniversitesi 4.dönem projesidir. <br>
 > C# dili kullanılmıştır.
