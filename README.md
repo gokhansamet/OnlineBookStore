@@ -15,6 +15,6 @@ Eskişehir Osmangazi Üniversitesi 4.dönem projesidir. C# dili ve XML (Extensib
 > - Müşterinin faturası, müşterinin e-posta adresine .pdf biçiminde gönderilir. 
 > - Müşteri, kargo durumunu görebilir ve eski siparişleri görebilir.
 ### Uygulama Resimleri
-![SignUp](https://hizliresim.com/CKWExe)
+![SignUp](https://user-images.githubusercontent.com/53264738/87994609-15849f00-caf6-11ea-95d5-5a5b170aa9c0.png)
 
 ### Takım Üyeleri
