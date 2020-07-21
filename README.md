@@ -1,7 +1,7 @@
 # Online Book Store
 Eskişehir Osmangazi Üniversitesi 4.dönem projesidir. C# dili ve XML (Extensible Markup Language) işaretleme dili kullanılmıştır.
-## 1 -  [Proje Tanıtımı](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#proje-tan%C4%B1t%C4%B1m%C4%B1)
-## 2 -  [Uygulama Resimleri](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#uygulama-resimleri)
+## 1 -  [Proje Tanıtımı](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#1---proje-tan%C4%B1t%C4%B1m%C4%B1)
+## 2 -  [Uygulama Resimleri](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#2---uygulama-resimleri)
 ## 3 -  [Takım Üyeleri](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#3---tak%C4%B1m-%C3%BCyeleri)
 ### 1 - Proje Tanıtımı
 > - Projenin amacı, müşteriye alışveriş deneyimi kazandırmaktır.
