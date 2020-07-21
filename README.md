@@ -1,9 +1,9 @@
 # Online Book Store
 Eskişehir Osmangazi Üniversitesi 4.dönem projesidir. C# dili ve XML (Extensible Markup Language) işaretleme dili kullanılmıştır.
-## 1. [Proje Tanıtımı](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#proje-tan%C4%B1t%C4%B1m%C4%B1)
-## 2. [Uygulama Resimleri](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#uygulama-resimleri)
-## 3. [Takım Üyeleri](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#tak%C4%B1m-%C3%BCyeleri)
-### 1- Proje Tanıtımı
+## 1 -  [Proje Tanıtımı](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#proje-tan%C4%B1t%C4%B1m%C4%B1)
+## 2 -  [Uygulama Resimleri](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#uygulama-resimleri)
+## 3 -  [Takım Üyeleri](https://github.com/gokhansamet/OnlineBookStore/blob/master/README.md#tak%C4%B1m-%C3%BCyeleri)
+### 1 - Proje Tanıtımı
 > - Projenin amacı, müşteriye alışveriş deneyimi kazandırmaktır.
 > - Projenin fikri, çevrimiçi alışveriş uygulamasından ürün satın almaktır. 
 > - Müşteri, uygulamaya kullanıcı adı ve şifre ile giriş yapar. 
@@ -14,7 +14,7 @@ Eskişehir Osmangazi Üniversitesi 4.dönem projesidir. C# dili ve XML (Extensib
 > - Müşteri, ürün satın alırken e-posta adresine doğruluk kodu gönderilir.  
 > - Müşterinin faturası, müşterinin e-posta adresine .pdf biçiminde gönderilir. 
 > - Müşteri, kargo durumunu görebilir ve eski siparişleri görebilir.
-### 2- Uygulama Resimleri
+### 2 - Uygulama Resimleri
 ![SignUp](https://user-images.githubusercontent.com/53264738/87994950-e3277180-caf6-11ea-8082-6ad192bccebf.png)
 Müşterinin kayıt olabileceği ekran.
 ***
@@ -41,7 +41,7 @@ Mail adresine gelen faturanın resmidir.(Örnektir)
 Müşterinin geçmiş siparişlerinin özetini ve kargo durumunu içeren bilgilendirici ekrandır. (Örnektir)
 ***
 
-### 3- Takım Üyeleri
+### 3 - Takım Üyeleri
 > - Gökhan Samet Albayrak
 > - [ismail Demircan](https://github.com/ismaildemircann)
 > - Sina Kuşoğlu
